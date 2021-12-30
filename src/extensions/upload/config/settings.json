@@ -1,0 +1,15 @@
+
+  { 
+    "provider": "cloudinary",
+    "providerOptions": {
+      "cloud_name": "kanik",
+      "api_key": "522938563596151" ,
+      "api_secret": "fibi--hvBJs6xKBW2O_-h-oWEOQ" 
+    },
+    "actionOptions": {
+      "upload": {},
+      "delete" : {}
+    }
+    }
+   
+  
